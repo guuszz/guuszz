@@ -25,8 +25,8 @@
 
   📂 Meus Projetos Recentes:
 
-- ✅ [Projeto 1 - Academia-Em-Casa]((https://github.com/guuszz/Academia-Em-Casa))
-- ✅ [Projeto 2 - Gfocus-Lista-De-Tarefas]((https://github.com/guuszz/Gfocus))
+- ✅ [Projeto 1 - Academia-Em-Casa](https://github.com/guuszz/Academia-Em-Casa)
+- ✅ [Projeto 2 - Gfocus-Lista-De-Tarefas](https://github.com/guuszz/Gfocus)
 - ✅ [Projeto 3 - OFICINA-API](https://github.com/guuszz/OFICINA)
 
 
