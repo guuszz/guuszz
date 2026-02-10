@@ -7,7 +7,6 @@
   🚀 Sobre mim:
 🎓 Estudante de Sistemas de Informação <br>
 💻 Focado em Desenvolvimento Full Stack <br>
-🚀 Buscando minha primeira oportunidade de estágio em tecnologia <br>
 - 📍 Vitória da Conquista - BA, Brasil
 ---
 
@@ -41,11 +40,4 @@
 
 ---
 
-### 📲 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-saraiva-054807358/)
-
-
----
-
-<h4 align="center">✨ Obrigado por visitar meu perfil! ✨</h4>
