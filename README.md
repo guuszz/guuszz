@@ -41,3 +41,50 @@
 ---
 
 
+-- Criação das tabelas
+CREATE TABLE Passageiro (
+    id_passageiro INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    email VARCHAR(100) UNIQUE NOT NULL
+);
+
+CREATE TABLE Aeroporto (
+    id_aeroporto INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    cidade VARCHAR(100) NOT NULL,
+    estado CHAR(2) NOT NULL
+);
+
+CREATE TABLE Voo (
+    id_voo INT PRIMARY KEY AUTO_INCREMENT,
+    codigo_voo VARCHAR(10) UNIQUE NOT NULL
+);
+
+CREATE TABLE Trecho (
+    id_trecho INT PRIMARY KEY AUTO_INCREMENT,
+    id_voo INT NOT NULL,
+    aeroporto_origem INT NOT NULL,
+    aeroporto_destino INT NOT NULL,
+    FOREIGN KEY (id_voo) REFERENCES Voo(id_voo),
+    FOREIGN KEY (aeroporto_origem) REFERENCES Aeroporto(id_aeroporto),
+    FOREIGN KEY (aeroporto_destino) REFERENCES Aeroporto(id_aeroporto)
+);
+
+CREATE TABLE Reserva (
+    id_reserva INT PRIMARY KEY AUTO_INCREMENT,
+    id_passageiro INT NOT NULL,
+    FOREIGN KEY (id_passageiro) REFERENCES Passageiro(id_passageiro)
+);
+
+CREATE TABLE Reserva_Trecho (
+    id_reserva INT NOT NULL,
+    id_trecho INT NOT NULL,
+    classe VARCHAR(20) NOT NULL,
+    data_hora DATETIME NOT NULL,
+    PRIMARY KEY (id_reserva, id_trecho),
+    FOREIGN KEY (id_reserva) REFERENCES Reserva(id_reserva),
+    FOREIGN KEY (id_trecho) REFERENCES Trecho(id_trecho)
+);
+
+
+
