@@ -116,6 +116,14 @@ I'm an Information Systems student and a full-stack developer in training. I enj
   <img src="https://streak-stats.demolab.com?user=guuszz&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guuszz&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+</p>
+
+<p align="center">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/guuszz/guuszz/output/github-snake-dark.svg" />
+</p>
+
 ---
 
 ### 🌱 Em que estou trabalhando · What I'm up to
