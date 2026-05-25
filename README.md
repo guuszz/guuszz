@@ -64,40 +64,63 @@ I'm an Information Systems student and a full-stack developer in training. I enj
     <td width="50%" valign="top">
       <h3 align="center">🎯 Gfocus</h3>
       <p align="center">
-        <a href="https://github.com/guuszz/Gfocus">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=guuszz&repo=Gfocus&theme=tokyonight&hide_border=true" />
+        <a href="https://gfocus-zeta.vercel.app" title="Ver demo ao vivo">
+          <img src="https://raw.githubusercontent.com/guuszz/Gfocus/master/docs/screenshots/landing.png" alt="Screenshot da landing page do Gfocus" width="100%"/>
         </a>
       </p>
-      <p align="center"><sub>App de produtividade — lista de tarefas otimizada com foco em UX e simplicidade.</sub></p>
+      <p align="center">
+        <sub>App de produtividade — lista de tarefas com drag & drop e filtros inteligentes.</sub>
+      </p>
+      <p align="center">
+        <a href="https://gfocus-zeta.vercel.app"><b>🌐 Demo</b></a> ·
+        <a href="https://github.com/guuszz/Gfocus"><b>Código</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏋️ Academia em Casa</h3>
       <p align="center">
-        <a href="https://github.com/guuszz/Academia-Em-Casa">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=guuszz&repo=Academia-Em-Casa&theme=tokyonight&hide_border=true" />
+        <a href="https://fithome-alpha.vercel.app" title="Ver demo ao vivo">
+          <img src="https://raw.githubusercontent.com/guuszz/Academia-Em-Casa/main/docs/screenshots/onboarding.png" alt="Screenshot do onboarding do FitHome" width="60%"/>
         </a>
       </p>
-      <p align="center"><sub>Plataforma para montar e acompanhar treinos sem precisar de academia.</sub></p>
+      <p align="center">
+        <sub>App mobile (React Native + Expo) para treinos em casa com peso do corpo.</sub>
+      </p>
+      <p align="center">
+        <a href="https://fithome-alpha.vercel.app"><b>🌐 Demo</b></a> ·
+        <a href="https://github.com/guuszz/Academia-Em-Casa"><b>Código</b></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔧 Oficina API</h3>
+      <h3 align="center">🔧 Oficina Mecânica</h3>
       <p align="center">
-        <a href="https://github.com/guuszz/OFICINA">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=guuszz&repo=OFICINA&theme=tokyonight&hide_border=true" />
+        <a href="https://oficina-rouge.vercel.app" title="Ver demo ao vivo">
+          <img src="https://raw.githubusercontent.com/guuszz/OFICINA/main/docs/screenshots/dashboard.png" alt="Screenshot do dashboard da Oficina Mecânica" width="100%"/>
         </a>
       </p>
-      <p align="center"><sub>API REST para gestão de oficina mecânica — clientes, veículos e ordens de serviço.</sub></p>
+      <p align="center">
+        <sub>Sistema full-stack para gestão de oficina — API REST + interface web.</sub>
+      </p>
+      <p align="center">
+        <a href="https://oficina-rouge.vercel.app"><b>🌐 Demo</b></a> ·
+        <a href="https://github.com/guuszz/OFICINA"><b>Código</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📚 Estrutura de Dados</h3>
       <p align="center">
         <a href="https://github.com/guuszz/atividade-estrutura-de-dados">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=guuszz&repo=atividade-estrutura-de-dados&theme=tokyonight&hide_border=true" />
+          <img src="https://opengraph.githubassets.com/1/guuszz/atividade-estrutura-de-dados" alt="Card do repositório atividade-estrutura-de-dados" width="100%"/>
         </a>
       </p>
-      <p align="center"><sub>Exercícios e implementações de estruturas de dados clássicas em Python.</sub></p>
+      <p align="center">
+        <sub>Exercícios e implementações de estruturas de dados clássicas em Python.</sub>
+      </p>
+      <p align="center">
+        <a href="https://github.com/guuszz/atividade-estrutura-de-dados"><b>Código</b></a>
+      </p>
     </td>
   </tr>
 </table>
