@@ -130,8 +130,8 @@ I'm an Information Systems student and a full-stack developer in training. I enj
 ### 📊 GitHub em números · GitHub at a glance
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guuszz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuszz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://guuszz-readme-stats.vercel.app/api?username=guuszz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://guuszz-readme-stats.vercel.app/api/top-langs/?username=guuszz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
