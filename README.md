@@ -112,7 +112,7 @@ I'm an Information Systems student and a full-stack developer in training. I enj
       <h3 align="center">📚 Estrutura de Dados</h3>
       <p align="center">
         <a href="https://github.com/guuszz/atividade-estrutura-de-dados">
-          <img src="https://opengraph.githubassets.com/1/guuszz/atividade-estrutura-de-dados" alt="Card do repositório atividade-estrutura-de-dados" width="100%"/>
+          <img src="./assets/python-card.svg" alt="Card do repositório atividade-estrutura-de-dados" width="100%"/>
         </a>
       </p>
       <p align="center">
