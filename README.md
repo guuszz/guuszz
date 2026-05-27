@@ -31,7 +31,7 @@ I'm an Information Systems student and a full-stack developer in training. I enj
 
 **Linguagens · Languages**
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,python&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,go,python&theme=dark)](https://skillicons.dev)
 
 **Front-end**
 
@@ -60,6 +60,7 @@ I'm an Information Systems student and a full-stack developer in training. I enj
 - 🛠️ **Construindo:** [OFICINA](https://github.com/guuszz/OFICINA) — SaaS multi-tenant para gestão de oficinas mecânicas (Next.js + Prisma + Neon + Vercel Blob para fotos de veículos)
 - 🤖 **Construindo:** [pr-reviewer](https://github.com/guuszz/pr-reviewer) — análise de Pull Requests com IA (Gemini 1.5 Flash)
 - 📚 **Estudando:** padrões de produção (auth, multi-tenancy, observability), design systems, testes E2E com Playwright
+- 🛠️ **Construindo:** [gh-streak](https://github.com/guuszz/gh-streak) — CLI Go que mostra streak de commits do GitHub no terminal com heatmap ASCII colorido
 - 🎯 **Próximo:** [telegram-commits-mirror](https://github.com/guuszz?tab=repositories) — bot que reposta meus commits diários em um canal pessoal
 
 > _Currently building production-grade SaaS apps · learning multi-tenant patterns, design systems, and end-to-end testing._
