@@ -96,7 +96,7 @@ I'm an Information Systems student and a full-stack developer in training. I enj
     <td width="50%" valign="top">
       <h3 align="center">🔧 Oficina Mecânica</h3>
       <p align="center">
-        <a href="https://oficina-rouge.vercel.app" title="Ver demo ao vivo">
+        <a href="https://oficina-swart.vercel.app" title="Ver demo ao vivo">
           <img src="https://raw.githubusercontent.com/guuszz/OFICINA/main/docs/screenshots/dashboard.png" alt="Screenshot do dashboard da Oficina Mecânica" width="100%"/>
         </a>
       </p>
@@ -104,7 +104,7 @@ I'm an Information Systems student and a full-stack developer in training. I enj
         <sub>Sistema full-stack para gestão de oficina — API REST + interface web.</sub>
       </p>
       <p align="center">
-        <a href="https://oficina-rouge.vercel.app"><b>🌐 Demo</b></a> ·
+        <a href="https://oficina-swart.vercel.app"><b>🌐 Demo</b></a> ·
         <a href="https://github.com/guuszz/OFICINA"><b>Código</b></a>
       </p>
     </td>
