@@ -80,7 +80,7 @@ I'm an Information Systems student and a full-stack developer in training. I enj
       <h3 align="center">🏋️ Academia em Casa</h3>
       <p align="center">
         <a href="https://fithome-alpha.vercel.app" title="Ver demo ao vivo">
-          <img src="https://raw.githubusercontent.com/guuszz/Academia-Em-Casa/main/docs/screenshots/onboarding.png" alt="Screenshot do onboarding do FitHome" width="60%"/>
+          <img src="https://raw.githubusercontent.com/guuszz/Academia-Em-Casa/main/docs/screenshots/onboarding.png?v=2" alt="Tela de onboarding do FitHome com novo athletic dark design — deep orange + pace green, Barlow Condensed" width="60%"/>
         </a>
       </p>
       <p align="center">
@@ -97,7 +97,7 @@ I'm an Information Systems student and a full-stack developer in training. I enj
       <h3 align="center">🔧 Oficina Mecânica</h3>
       <p align="center">
         <a href="https://oficina-swart.vercel.app" title="Ver demo ao vivo">
-          <img src="https://raw.githubusercontent.com/guuszz/OFICINA/main/docs/screenshots/dashboard.png" alt="Screenshot do dashboard da Oficina Mecânica" width="100%"/>
+          <img src="https://raw.githubusercontent.com/guuszz/OFICINA/main/docs/screenshots/dashboard.png?v=2" alt="Tela de login do OFICINA com novo design Trust &amp; Authority — paleta industrial slate + accent green, Plus Jakarta Sans" width="100%"/>
         </a>
       </p>
       <p align="center">
