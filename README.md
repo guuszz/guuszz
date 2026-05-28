@@ -57,11 +57,12 @@ I'm an Information Systems student and a full-stack developer in training. I enj
 
 ### 🌱 Currently building · Currently learning
 
-- 🛠️ **Construindo:** [OFICINA](https://github.com/guuszz/OFICINA) — SaaS multi-tenant para gestão de oficinas mecânicas (Next.js + Prisma + Neon + Vercel Blob para fotos de veículos)
-- 🤖 **Construindo:** [pr-reviewer](https://github.com/guuszz/pr-reviewer) — análise de Pull Requests com IA (Gemini 1.5 Flash)
-- 📚 **Estudando:** padrões de produção (auth, multi-tenancy, observability), design systems, testes E2E com Playwright
-- 🛠️ **Construindo:** [gh-streak](https://github.com/guuszz/gh-streak) — CLI Go que mostra streak de commits do GitHub no terminal com heatmap ASCII colorido
-- 🎯 **Próximo:** [telegram-commits-mirror](https://github.com/guuszz?tab=repositories) — bot que reposta meus commits diários em um canal pessoal
+- 🛠️ **Construindo:** [OFICINA](https://github.com/guuszz/OFICINA): SaaS multi-tenant para gestão de oficinas mecânicas (Next.js + Prisma + Neon + Vercel Blob)
+- 🤖 **Construindo:** [pr-reviewer](https://github.com/guuszz/pr-reviewer): análise de Pull Requests com IA (Gemini 2.5 Flash)
+- 📚 **Mantendo:** [gateway-pagamento-br-guide](https://github.com/guuszz/gateway-pagamento-br-guide): guide opinativo de gateways de pagamento BR (PT-BR, MIT)
+- 🛠️ **Construindo:** [gh-streak](https://github.com/guuszz/gh-streak): CLI Go que mostra streak de commits do GitHub no terminal
+- 📝 **Mantendo:** [devlog](https://github.com/guuszz/devlog): diário de aprendizado público (1 commit/dia)
+- 🎯 **Próximo:** [telegram-commits-mirror](https://github.com/guuszz/telegram-commits-mirror): bot que reposta meus commits no Telegram
 
 > _Currently building production-grade SaaS apps · learning multi-tenant patterns, design systems, and end-to-end testing._
 
@@ -72,18 +73,18 @@ I'm an Information Systems student and a full-stack developer in training. I enj
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 Gfocus</h3>
+      <h3 align="center">🤖 PR Reviewer</h3>
       <p align="center">
-        <a href="https://gfocus-zeta.vercel.app" title="Ver demo ao vivo">
-          <img src="https://raw.githubusercontent.com/guuszz/Gfocus/master/docs/screenshots/landing.png" alt="Screenshot da landing page do Gfocus" width="100%"/>
+        <a href="https://pr-reviewer-lemon.vercel.app" title="Ver demo ao vivo">
+          <img src="https://raw.githubusercontent.com/guuszz/portfolio/main/public/screenshots/pr-reviewer.png" alt="Screenshot do PR Reviewer com análise de PR via IA" width="100%"/>
         </a>
       </p>
       <p align="center">
-        <sub>App de produtividade — lista de tarefas com drag & drop e filtros inteligentes.</sub>
+        <sub>Análise de Pull Requests com IA · streaming NDJSON · share link via Redis.</sub>
       </p>
       <p align="center">
-        <a href="https://gfocus-zeta.vercel.app"><b>🌐 Demo</b></a> ·
-        <a href="https://github.com/guuszz/Gfocus"><b>Código</b></a>
+        <a href="https://pr-reviewer-lemon.vercel.app"><b>🌐 Demo</b></a> ·
+        <a href="https://github.com/guuszz/pr-reviewer"><b>Código</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -111,7 +112,7 @@ I'm an Information Systems student and a full-stack developer in training. I enj
         </a>
       </p>
       <p align="center">
-        <sub>Sistema full-stack para gestão de oficina — API REST + interface web.</sub>
+        <sub>Sistema full-stack para gestão de oficina mecânica (API REST + interface web).</sub>
       </p>
       <p align="center">
         <a href="https://oficina-swart.vercel.app"><b>🌐 Demo</b></a> ·
@@ -119,17 +120,18 @@ I'm an Information Systems student and a full-stack developer in training. I enj
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📚 Estrutura de Dados</h3>
+      <h3 align="center">🔥 gh-streak</h3>
       <p align="center">
-        <a href="https://github.com/guuszz/atividade-estrutura-de-dados">
-          <img src="./assets/python-card.svg" alt="Card do repositório atividade-estrutura-de-dados" width="100%"/>
+        <a href="https://github.com/guuszz/gh-streak">
+          <img src="https://raw.githubusercontent.com/guuszz/gh-streak/main/preview.png" alt="Heatmap ASCII colorido do gh-streak rodando no terminal" width="100%"/>
         </a>
       </p>
       <p align="center">
-        <sub>Exercícios e implementações de estruturas de dados clássicas em Python.</sub>
+        <sub>CLI Go que mostra streak do GitHub no terminal · heatmap ASCII colorido · release com 6 binaries.</sub>
       </p>
       <p align="center">
-        <a href="https://github.com/guuszz/atividade-estrutura-de-dados"><b>Código</b></a>
+        <a href="https://github.com/guuszz/gh-streak/releases"><b>📦 Release</b></a> ·
+        <a href="https://github.com/guuszz/gh-streak"><b>Código</b></a>
       </p>
     </td>
   </tr>
