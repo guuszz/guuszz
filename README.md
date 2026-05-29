@@ -33,25 +33,17 @@ I'm an Information Systems student and a full-stack developer in training. I enj
 
 [![Skills](https://skillicons.dev/icons?i=ts,js,go,python&theme=dark)](https://skillicons.dev)
 
-**Front-end**
+**Front-end & Mobile**
 
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark)](https://skillicons.dev)
-
-**Mobile**
-
-[![Skills](https://skillicons.dev/icons?i=react,expo&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,expo&theme=dark)](https://skillicons.dev)
 
 **Back-end & APIs**
 
 [![Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql&theme=dark)](https://skillicons.dev)
 
-**DevOps & Cloud**
+**DevOps & Tools**
 
-[![Skills](https://skillicons.dev/icons?i=vercel,git,github,githubactions,docker&theme=dark)](https://skillicons.dev)
-
-**Ferramentas · Tools**
-
-[![Skills](https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vercel,git,github,githubactions,docker,vscode,postman&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -142,7 +134,7 @@ I'm an Information Systems student and a full-stack developer in training. I enj
 ### 📊 GitHub em números · GitHub at a glance
 
 <p align="center">
-  <img height="170" src="https://guuszz-readme-stats.vercel.app/api?v=2&username=guuszz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://guuszz-readme-stats.vercel.app/api?v=2&username=guuszz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" />
   <img height="170" src="https://guuszz-readme-stats.vercel.app/api/top-langs/?v=2&username=guuszz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
@@ -160,25 +152,6 @@ I'm an Information Systems student and a full-stack developer in training. I enj
 
 ---
 
-### 🌱 Em que estou trabalhando · What I'm up to
-
-- 🔭 Construindo APIs REST mais robustas com **Node.js + TypeScript**
-- 📚 Estudando **arquitetura limpa** e **testes automatizados**
-- 🤝 Aberto a colaborar em projetos open-source
-- 💬 Pergunte-me sobre **JavaScript, Node, MySQL** — adoro trocar ideia sobre código
-
-<details>
-<summary><b>🇺🇸 English</b></summary>
-
-- 🔭 Building more robust REST APIs with **Node.js + TypeScript**
-- 📚 Studying **clean architecture** and **automated testing**
-- 🤝 Open to collaborating on open-source projects
-- 💬 Ask me about **JavaScript, Node, MySQL** — happy to chat about code
-
-</details>
-
----
-
 <p align="center">
-  <sub>Feito com ☕ em Vitória da Conquista — BA</sub>
+  <sub>Feito com ☕ em Vitória da Conquista, BA</sub>
 </p>
