@@ -61,8 +61,9 @@ I'm an Information Systems student and a full-stack developer in training. I enj
 
 ### 🤝 Contribuições Open Source · Open Source Contributions
 
-- **[vercel/examples #1488](https://github.com/vercel/examples/pull/1488)** — exemplo de streaming NDJSON com Next.js Route Handler _(em review)_
-- **[microsoft/TypeScript-Website-Localizations #247](https://github.com/microsoft/TypeScript-Website-Localizations/pull/247)** — tradução PT-BR do handbook v2 "Understanding Errors" _(em review)_
+- **[grammyjs/website #1296](https://github.com/grammyjs/website/pull/1296):** correção de typos nos guias de session e error handling · ✅ **merged**
+- **[vercel/examples #1488](https://github.com/vercel/examples/pull/1488):** exemplo de streaming NDJSON com Next.js Route Handler · _em review_
+- **[microsoft/TypeScript-Website-Localizations #247](https://github.com/microsoft/TypeScript-Website-Localizations/pull/247):** tradução PT-BR do handbook v2 "Understanding Errors" · _em review_
 
 ---
 
