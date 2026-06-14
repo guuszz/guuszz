@@ -61,11 +61,11 @@ I'm an Information Systems student and a full-stack developer in training. I enj
 
 ### 🤝 Contribuições Open Source · Open Source Contributions
 
+- **[trekhleb/javascript-algorithms #2174](https://github.com/trekhleb/javascript-algorithms/pull/2174):** correções de tradução PT-BR em queue, insertion-sort e linked-list · ✅ **merged** — repo com **196k+ ⭐**
 - **[grammyjs/website #1296](https://github.com/grammyjs/website/pull/1296):** correção de typos nos guias de session e error handling · ✅ **merged**
-- **[microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations/pulls/guuszz):** tradução PT-BR do handbook v2 — [Understanding Errors #247](https://github.com/microsoft/TypeScript-Website-Localizations/pull/247), [The Handbook #248](https://github.com/microsoft/TypeScript-Website-Localizations/pull/248), [Basics #249](https://github.com/microsoft/TypeScript-Website-Localizations/pull/249), [Everyday Types #250](https://github.com/microsoft/TypeScript-Website-Localizations/pull/250) · _em review_ · CLA assinado
 - **[vercel/examples #1488](https://github.com/vercel/examples/pull/1488):** exemplo de streaming NDJSON com Next.js Route Handler · _em review_
-- **[trekhleb/javascript-algorithms #2174](https://github.com/trekhleb/javascript-algorithms/pull/2174):** correções de tradução PT-BR (queue, insertion-sort, linked-list) · _em review_
 - **[dip/cmdk #407](https://github.com/dip/cmdk/pull/407):** null guard contra `TypeError` no operador `in` · _em review_
+- 🌐 **9 páginas do handbook v2 do TypeScript** traduzidas para PT-BR — Basics, Everyday Types, Narrowing, More on Functions, Object Types, Modules e mais
 
 ---
 
