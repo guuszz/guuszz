@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Gustavo%20Oliveira&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Vit%C3%B3ria%20da%20Conquista%2C%20BA&descAlignY=58&descSize=16" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Gustavo%20Oliveira&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Estudante%20de%20SI%20%C2%B7%20Full-Stack%20em%20forma%C3%A7%C3%A3o%20%C2%B7%20Vit%C3%B3ria%20da%20Conquista%2C%20BA&descAlignY=58&descSize=16" alt="header" />
 </h1>
 
 <p align="center">
@@ -12,16 +12,18 @@
 
 ### 👋 Sobre mim
 
-Sou estudante de **Sistemas de Informação** e desenvolvedor full-stack em formação. Gosto de construir APIs bem desenhadas, interfaces limpas e código que outras pessoas conseguam ler sem sofrer.
+Sou estudante de **Sistemas de Informação** e desenvolvedor full-stack em formação, buscando estágio e primeiras experiências profissionais. Gosto de construir APIs bem desenhadas, interfaces limpas e código que outras pessoas consigam ler sem sofrer.
 
-> Atualmente estudando **TypeScript avançado**, **arquitetura de APIs** e padrões de projeto aplicados ao back-end Node.js.
+> Atualmente estudando **TypeScript avançado**, **arquitetura de APIs**, **fundamentos de cybersecurity** e padrões de projeto aplicados ao back-end Node.js.
+
+🏅 **Badges GitHub:** Quickdraw · Pull Shark · YOLO
 
 <details>
 <summary><b>🇺🇸 English</b></summary>
 
-I'm an Information Systems student and a full-stack developer in training. I enjoy building well-designed APIs, clean interfaces, and code other people can actually read without suffering.
+I'm an Information Systems student and a full-stack developer in training, looking for internships and first professional experiences. I enjoy building well-designed APIs, clean interfaces, and code other people can actually read without suffering.
 
-> Currently studying **advanced TypeScript**, **API architecture**, and design patterns applied to Node.js back-ends.
+> Currently studying **advanced TypeScript**, **API architecture**, **cybersecurity fundamentals**, and design patterns applied to Node.js back-ends.
 
 </details>
 
@@ -53,111 +55,4 @@ I'm an Information Systems student and a full-stack developer in training. I enj
 - 🤖 **Construindo:** [pr-reviewer](https://github.com/guuszz/pr-reviewer): análise de Pull Requests com IA (Gemini 2.5 Flash + streaming NDJSON)
 - 🔥 **Mantendo:** [gh-streak](https://github.com/guuszz/gh-streak): CLI Go que mostra streak de commits do GitHub no terminal
 - 📚 **Mantendo:** [gateway-pagamento-br-guide](https://github.com/guuszz/gateway-pagamento-br-guide): guide opinativo de gateways de pagamento BR (PT-BR, MIT)
-- 🤖 **Mantendo:** [telegram-commits-mirror](https://github.com/guuszz/telegram-commits-mirror): bot que reposta commits no Telegram
-- 📝 **Mantendo:** [devlog](https://github.com/guuszz/devlog): diário de aprendizado público
-
-> _Currently building production-grade apps · learning multi-tenant patterns, design systems, APIs and end-to-end testing._
-
----
-
-### 🤝 Contribuições Open Source · Open Source Contributions
-
-- **[trekhleb/javascript-algorithms #2174](https://github.com/trekhleb/javascript-algorithms/pull/2174):** correções de tradução PT-BR em queue, insertion-sort e linked-list · ✅ **merged** — repo com **196k+ ⭐**
-- **[grammyjs/website #1296](https://github.com/grammyjs/website/pull/1296):** correção de typos nos guias de session e error handling · ✅ **merged**
-- **[vercel/examples #1488](https://github.com/vercel/examples/pull/1488):** exemplo de streaming NDJSON com Next.js Route Handler · _em review_
-- **[dip/cmdk #407](https://github.com/dip/cmdk/pull/407):** null guard contra `TypeError` no operador `in` · _em review_
-- 🌐 **9 páginas do handbook v2 do TypeScript** traduzidas para PT-BR — Basics, Everyday Types, Narrowing, More on Functions, Object Types, Modules e mais
-
----
-
-### 🚀 Projetos em destaque · Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔧 Oficina Mecânica</h3>
-      <p align="center">
-        <a href="https://oficina-swart.vercel.app" title="Ver demo ao vivo">
-          <img src="https://raw.githubusercontent.com/guuszz/OFICINA/main/docs/screenshots/dashboard-v2.png" alt="Dashboard do OFICINA com clientes, veículos e ordens" width="100%"/>
-        </a>
-      </p>
-      <p align="center">
-        <sub>Sistema full-stack para gestão de oficina mecânica · Prisma/PostgreSQL · JWT · PDF · Blob.</sub>
-      </p>
-      <p align="center">
-        <a href="https://oficina-swart.vercel.app"><b>🌐 Demo</b></a> ·
-        <a href="https://github.com/guuszz/OFICINA"><b>Código</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 PR Reviewer</h3>
-      <p align="center">
-        <a href="https://pr-reviewer-lemon.vercel.app" title="Ver demo ao vivo">
-          <img src="https://raw.githubusercontent.com/guuszz/portfolio/main/public/screenshots/pr-reviewer.png" alt="Screenshot do PR Reviewer com análise de PR via IA" width="100%"/>
-        </a>
-      </p>
-      <p align="center">
-        <sub>Análise de Pull Requests com IA · streaming NDJSON · share link via Redis.</sub>
-      </p>
-      <p align="center">
-        <a href="https://pr-reviewer-lemon.vercel.app"><b>🌐 Demo</b></a> ·
-        <a href="https://github.com/guuszz/pr-reviewer"><b>Código</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 gh-streak</h3>
-      <p align="center">
-        <a href="https://github.com/guuszz/gh-streak">
-          <img src="https://raw.githubusercontent.com/guuszz/gh-streak/main/preview.png" alt="Heatmap ASCII colorido do gh-streak rodando no terminal" width="100%"/>
-        </a>
-      </p>
-      <p align="center">
-        <sub>CLI Go que mostra streak do GitHub no terminal · heatmap ASCII colorido · release com 6 binaries.</sub>
-      </p>
-      <p align="center">
-        <a href="https://github.com/guuszz/gh-streak/releases"><b>📦 Release</b></a> ·
-        <a href="https://github.com/guuszz/gh-streak"><b>Código</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏋️ Academia em Casa</h3>
-      <p align="center">
-        <a href="https://fithome-alpha.vercel.app" title="Ver demo ao vivo">
-          <img src="https://raw.githubusercontent.com/guuszz/Academia-Em-Casa/main/docs/screenshots/onboarding.png?v=2" alt="Tela de onboarding do FitHome com novo athletic dark design — deep orange + pace green, Barlow Condensed" width="60%"/>
-        </a>
-      </p>
-      <p align="center">
-        <sub>App mobile (React Native + Expo) para treinos em casa com peso do corpo.</sub>
-      </p>
-      <p align="center">
-        <a href="https://fithome-alpha.vercel.app"><b>🌐 Demo</b></a> ·
-        <a href="https://github.com/guuszz/Academia-Em-Casa"><b>Código</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub em números · GitHub at a glance
-
-<p align="center">
-  <img height="170" src="https://guuszz-readme-stats.vercel.app/api?v=2&username=guuszz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" />
-  <img height="170" src="https://guuszz-readme-stats.vercel.app/api/top-langs/?v=2&username=guuszz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=guuszz&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/guuszz/guuszz/output/github-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
-  <sub>Feito com ☕ em Vitória da Conquista, BA</sub>
-</p>
+- 🏋️ **Mantendo:** [Academia-Em-Casa](https://github.com/guuszz/Academia-Em-Casa): app mobile com Expo + React Native para treinos em casa e acompanhamento de progresso.
