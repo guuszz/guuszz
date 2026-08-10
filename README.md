@@ -93,7 +93,7 @@ Minha experiência com desenvolvimento me ajuda a enxergar aplicações por dent
 | [**estudo-redes**](https://github.com/guuszz/estudo-redes) | Consolidar TCP/IP, DNS, HTTP e análise de tráfego para segurança ofensiva | `ACTIVE` |
 | [**Security PR Reviewer**](https://github.com/guuszz/pr-reviewer) | Revisar diffs com regras AppSec determinísticas, evidência por linha e mapeamento CWE/OWASP | `v0.2.0 · ACTIVE` |
 | [**OFICINA**](https://github.com/guuszz/OFICINA) | Usar uma aplicação full-stack para estudar superfície de ataque e desenvolvimento seguro | `LAB BASE` |
-| [**Red Team Lab**](https://github.com/guuszz/redteam-lab) | Planejar cenários MITRE ATT&CK e manter cadeia de evidências SHA-256 em laboratórios reproduzíveis | `v0.1.0 · ACTIVE` |
+| [**Red Team Lab**](https://github.com/guuszz/redteam-lab) | Planejar cenários MITRE ATT&CK, preservar evidências SHA-256 e exportar findings para o RedReport | `v0.2.0 · ACTIVE` |
 
 > Conteúdos públicos de segurança são baseados em ambientes próprios, CTFs e laboratórios preparados para estudo.
 
