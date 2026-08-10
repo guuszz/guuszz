@@ -1,0 +1,42 @@
+Exit code: 0
+Wall time: 1.9 seconds
+Output:
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="480" viewBox="0 0 620 480" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060a08"/><stop offset="1" stop-color="#111827"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation=".7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="620" height="480" rx="18" fill="url(#bg)" stroke="#22c55e" stroke-opacity=".45"/>
+<circle cx="22" cy="18" r="4" fill="#ef4444"/><circle cx="36" cy="18" r="4" fill="#f59e0b"/><circle cx="50" cy="18" r="4" fill="#22c55e"/>
+<text x="310" y="21" text-anchor="middle" fill="#64748b" font-size="10">portrait://guuszz</text>
+<text xml:space="preserve" x="18" y="42.0" fill="#22c55e" font-size="11" filter="url(#glow)">###############99@@@&amp;99#######SSSSSSSSSSSSSSSSSSGGSSGGGGGGGGGG</text>
+<text xml:space="preserve" x="18" y="54.5" fill="#22c55e" font-size="11" filter="url(#glow)">################9B@@@&amp;9########SSSSSSSSSSSSSSSSGGGGGGGGGGHHHHH</text>
+<text xml:space="preserve" x="18" y="67.0" fill="#22c55e" font-size="11" filter="url(#glow)">SS############S###9@@@B########SSSSSSSSSSSSSSSGGGGGGGGGHHHHHMM</text>
+<text xml:space="preserve" x="18" y="79.5" fill="#22c55e" font-size="11" filter="url(#glow)">###SS##S###SSSSS###B@@@9##SSSSSSSSSSGSSSSSSSGGGGGGGGGHHHHHMMMh</text>
+<text xml:space="preserve" x="18" y="92.0" fill="#22c55e" font-size="11" filter="url(#glow)">###SS#SSSSSSSSSS####B@@B##SSSSSSSSSGGSSGGGGGGGGGGGHHHHHHHHMMMM</text>
+<text xml:space="preserve" x="18" y="104.5" fill="#22c55e" font-size="11" filter="url(#glow)">S#####SSS##SSSS#S####9@@#SSSSSSSSGGGGGGGGGGGGHHHHHHHHHHHHHHHHH</text>
+<text xml:space="preserve" x="18" y="117.0" fill="#22c55e" font-size="11" filter="url(#glow)">##################SSSS9@BSMMHMMMMMMHGGGGGGHHHHHHHHHHHGSGHS#99B</text>
+<text xml:space="preserve" x="18" y="129.5" fill="#22c55e" font-size="11" filter="url(#glow)">#############SSSSSSSSSS9&amp;ShMMMMMMhMGGHHHHHHHHHHHHHGGGM5AhB@@@@</text>
+<text xml:space="preserve" x="18" y="142.0" fill="#22c55e" font-size="11" filter="url(#glow)">S############SSSSSSSGGGGS#GGGGHHHHHHGGGGGHHHGGGSSGH5Xi,G&amp;@@@@&amp;</text>
+<text xml:space="preserve" x="18" y="154.5" fill="#22c55e" font-size="11" filter="url(#glow)">GGGGSSSSSSSSSSGGGGGGGHHHHGGGHHHHHHHHHHHHHHHHHGGM5Ais&amp;9h2#B5HMA</text>
+<text xml:space="preserve" x="18" y="167.0" fill="#22c55e" font-size="11" filter="url(#glow)">hMMMHHHHGGGGGHHHHHHHMMMMMMHHMMMMMMMMHHHHHHGGS5A2;BXS@@@@@HM&amp;B2</text>
+<text xml:space="preserve" x="18" y="179.5" fill="#22c55e" font-size="11" filter="url(#glow)">sAA255333hhhhhhhhhhh3hhhhhhhhhhhhhhhhhhhhh33MsX5X3535AMB@M#@&amp;s</text>
+<text xml:space="preserve" x="18" y="192.0" fill="#22c55e" font-size="11" filter="url(#glow)">,,:;iirssXXXXAAA2222AA22222522AAAXXXXssi, ,irXXssr5Xi;S9Grri,</text>
+<text xml:space="preserve" x="18" y="204.5" fill="#22c55e" font-size="11" filter="url(#glow)">:,,,::;iirrrrsssssssssssssr;:,      ...   ;X53h22X5s;:;:,.,,.</text>
+<text xml:space="preserve" x="18" y="217.0" fill="#22c55e" font-size="11" filter="url(#glow)">;::;;iirrsssXXXAAXXXXXXXr:                rhHGSA.     ..</text>
+<text xml:space="preserve" x="18" y="229.5" fill="#22c55e" font-size="11" filter="url(#glow)">:::;iirsssXXXAAAAAAAAAA:                  sMG#Br            .</text>
+<text xml:space="preserve" x="18" y="242.0" fill="#22c55e" font-size="11" filter="url(#glow)">:::;irrsssXXAAAA22222AA,                  .2G#9;</text>
+<text xml:space="preserve" x="18" y="254.5" fill="#22c55e" font-size="11" filter="url(#glow)">;::;irrssXXAAA225552222X;,rs:.,,.,,.       ;MGH.</text>
+<text xml:space="preserve" x="18" y="267.0" fill="#22c55e" font-size="11" filter="url(#glow)">;;:;iirssXXXAAXsrrssrXA2A,rGs,:;iX25rrsr. .A5hs</text>
+<text xml:space="preserve" x="18" y="279.5" fill="#22c55e" font-size="11" filter="url(#glow)">;;;;;irs222AAh:       X523#9S#SGHGHM33rX. i225,</text>
+<text xml:space="preserve" x="18" y="292.0" fill="#22c55e" font-size="11" filter="url(#glow)">i;;;;irX3MMhMA    ..  X553i:5&amp;@G2A33XsX.  AAXr</text>
+<text xml:space="preserve" x="18" y="304.5" fill="#22c55e" font-size="11" filter="url(#glow)">i;;;;;iX5HHHHXir23h2  Ahh2i;XsAAsiiriX;  .XXr.</text>
+<text xml:space="preserve" x="18" y="317.0" fill="#22c55e" font-size="11" filter="url(#glow)">i;:::;is5MHShGGhr.  ;s5332rXA; ....;5HA...ss;</text>
+<text xml:space="preserve" x="18" y="329.5" fill="#22c55e" font-size="11" filter="url(#glow)">i;:::;;rA3H&amp;Mr:,r2Airr.       ..,:;rA2..::ri.</text>
+<text xml:space="preserve" x="18" y="342.0" fill="#22c55e" font-size="11" filter="url(#glow)">;;:,,:;is59BG5srr:.         .,;rii;::.   ,:,</text>
+<text xml:space="preserve" x="18" y="354.5" fill="#22c55e" font-size="11" filter="url(#glow)">;::..,,:rH&amp;#BS5r:,i,,.         ...</text>
+<text xml:space="preserve" x="18" y="367.0" fill="#22c55e" font-size="11" filter="url(#glow)">,.      X&amp;ShssX:,..                        .,..;;.   ,.</text>
+<text xml:space="preserve" x="18" y="379.5" fill="#22c55e" font-size="11" filter="url(#glow)">      .3#HArrr,                            ..,,,iAsXi,..;,,</text>
+<text xml:space="preserve" x="18" y="392.0" fill="#22c55e" font-size="11" filter="url(#glow)">   .::iG3rrr,              ,,;               ...  ,s3H233is,</text>
+<text xml:space="preserve" x="18" y="404.5" fill="#22c55e" font-size="11" filter="url(#glow)">,;i;:;ishhM5:              hS9hr                     .iX2A;</text>
+<text xml:space="preserve" x="18" y="417.0" fill="#22c55e" font-size="11" filter="url(#glow)">iri;;::;:;;si             .3S#9:                        .;2,</text>
+<text xml:space="preserve" x="18" y="429.5" fill="#22c55e" font-size="11" filter="url(#glow)">;;;;;:ii:iisX,              ;r:</text>
+<text xml:space="preserve" x="18" y="442.0" fill="#22c55e" font-size="11" filter="url(#glow)">;;;:,:;;;irsAX    .3H5,.</text>
+</svg>
