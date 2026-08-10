@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050806,45:14281f,75:3b1117,100:07090d&height=210&section=header&text=Gustavo%20Oliveira&fontColor=22c55e&fontSize=54&animation=fadeIn&fontAlignY=36&desc=Red%20Team%20%7C%20Web%20%26%20API%20Security%20%7C%20Offensive%20Security&descAlignY=58&descSize=17" width="100%" alt="Gustavo Oliveira — Red Team and Web API Security">
+<img src="./redteam-header.svg" width="100%" alt="Gustavo Oliveira — Red Team and Web API Security">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=720&lines=gustavo%40redteam%3A~%24+initializing+profile...;Cybersecurity+student+%7C+Red+Team+em+forma%C3%A7%C3%A3o;Studying+attack+surfaces%2C+Web+%26+API+Security;Building+labs.+Documenting+methodologies." alt="Terminal introduction">
 
@@ -115,8 +115,7 @@ Minha experiência com desenvolvimento me ajuda a enxergar aplicações por dent
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guuszz&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=07090d&title_color=22c55e&icon_color=ef4444" alt="GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuszz&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=07090d&title_color=22c55e" alt="Most used languages">
+<img src="./redteam-dashboard.svg" width="100%" alt="Painel de foco e estudos em Cybersecurity">
 
 <br>
 
@@ -130,6 +129,6 @@ Minha experiência com desenvolvimento me ajuda a enxergar aplicações por dent
 
 `scope → enumerate → analyze → validate → document`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090d,45:3b1117,100:14281f&height=110&section=footer" width="100%" alt="Footer">
+<img src="./redteam-footer.svg" width="100%" alt="Footer Red Team">
 
 </div>
