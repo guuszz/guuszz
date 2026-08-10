@@ -89,6 +89,7 @@ Minha experiência com desenvolvimento me ajuda a enxergar aplicações por dent
 | Projeto | Missão | Status |
 |---|---|---|
 | [**ScopeGuard**](https://github.com/guuszz/scopeguard) | Validar e normalizar escopos antes da execução de ferramentas de segurança | `v0.1.0 · ACTIVE` |
+| [**API Attack Surface Mapper**](https://github.com/guuszz/api-attack-surface) | Inventariar contratos OpenAPI e mapear sinais determinísticos OWASP API Security | `v0.1.0 · ACTIVE` |
 | [**RedReport**](https://github.com/guuszz/redreport) | Transformar findings YAML validados em relatórios técnicos Markdown e HTML | `v0.1.0 · ACTIVE` |
 | [**estudo-redes**](https://github.com/guuszz/estudo-redes) | Consolidar TCP/IP, DNS, HTTP e análise de tráfego para segurança ofensiva | `ACTIVE` |
 | [**Security PR Reviewer**](https://github.com/guuszz/pr-reviewer) | Revisar diffs com regras AppSec determinísticas, evidência por linha e mapeamento CWE/OWASP | `v0.2.0 · ACTIVE` |
