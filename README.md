@@ -15,8 +15,8 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="middle"><img src="./redteam-portrait.png" width="100%" alt="Retrato fotográfico de Gustavo Oliveira"></td>
-<td width="50%" valign="middle"><img src="./redteam-card.svg" width="100%" alt="Cartão terminal do perfil"></td>
+<td width="55%" valign="middle"><img src="./redteam-portrait-detailed.svg" width="100%" alt="Retrato detalhado de Gustavo Oliveira em código ASCII"></td>
+<td width="45%" valign="middle"><img src="./redteam-card.svg" width="100%" alt="Cartão terminal do perfil"></td>
 </tr>
 </table>
 </div>
