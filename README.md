@@ -88,6 +88,7 @@ Minha experiência com desenvolvimento me ajuda a enxergar aplicações por dent
 
 | Projeto | Missão | Status |
 |---|---|---|
+| [**ScopeGuard**](https://github.com/guuszz/scopeguard) | Validar e normalizar escopos antes da execução de ferramentas de segurança | `v0.1.0 · ACTIVE` |
 | [**estudo-redes**](https://github.com/guuszz/estudo-redes) | Consolidar TCP/IP, DNS, HTTP e análise de tráfego para segurança ofensiva | `ACTIVE` |
 | [**pr-reviewer**](https://github.com/guuszz/pr-reviewer) | Explorar revisão automatizada de código, APIs e fluxos de Pull Request | `BUILDING` |
 | [**OFICINA**](https://github.com/guuszz/OFICINA) | Usar uma aplicação full-stack para estudar superfície de ataque e desenvolvimento seguro | `LAB BASE` |
@@ -102,6 +103,7 @@ Minha experiência com desenvolvimento me ajuda a enxergar aplicações por dent
 - [x] Fundamentos de desenvolvimento Web e APIs
 - [x] Git/GitHub e automação básica
 - [x] Fundamentos de redes
+- [x] Publicar uma ferramenta própria para workflows de segurança
 - [ ] Publicar write-ups de laboratórios e CTFs
 - [ ] Criar automações de reconhecimento e coleta de evidências
 - [ ] Documentar uma metodologia de pentest Web/API
