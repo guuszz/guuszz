@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1.8 seconds
-Output:
 <!-- Profile design inspired by terminal interfaces and offensive-security dashboards. -->
 
 <div align="center">
@@ -136,4 +133,3 @@ Minha experiência com desenvolvimento me ajuda a enxergar aplicações por dent
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090d,45:3b1117,100:14281f&height=110&section=footer" width="100%" alt="Footer">
 
 </div>
-
