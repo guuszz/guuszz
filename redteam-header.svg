@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050806"/>
+      <stop offset="0.48" stop-color="#10271d"/>
+      <stop offset="0.78" stop-color="#3b1117"/>
+      <stop offset="1" stop-color="#07090d"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#22c55e" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <path d="M0 245 C200 205 300 292 510 238 S870 182 1200 230 V300 H0Z" fill="#020504" fill-opacity=".72"/>
+  <circle cx="38" cy="32" r="7" fill="#ef4444"/><circle cx="62" cy="32" r="7" fill="#f59e0b"/><circle cx="86" cy="32" r="7" fill="#22c55e"/>
+  <text x="600" y="118" text-anchor="middle" fill="#22c55e" font-size="57" font-weight="700" filter="url(#glow)">GUSTAVO OLIVEIRA</text>
+  <text x="600" y="164" text-anchor="middle" fill="#dbeafe" font-size="21" letter-spacing="3">RED TEAM  //  WEB &amp; API SECURITY</text>
+  <text x="600" y="205" text-anchor="middle" fill="#94a3b8" font-size="16">Cybersecurity Student  |  Offensive Security  |  AppSec</text>
+  <text x="34" y="279" fill="#22c55e" font-size="13">gustavo@redteam:~$ ./profile --initialize</text>
+  <rect x="365" y="266" width="10" height="17" fill="#22c55e"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>

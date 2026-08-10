@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#07090d"/><stop offset=".5" stop-color="#3b1117"/><stop offset="1" stop-color="#14281f"/></linearGradient></defs>
+  <path d="M0 22 C235 78 396 0 615 43 S976 95 1200 25 V120 H0Z" fill="url(#bg)"/>
+  <text x="600" y="90" text-anchor="middle" fill="#22c55e" font-size="14">connection closed // keep learning</text>
+</svg>
