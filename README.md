@@ -1,58 +1,85 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Gustavo%20Oliveira&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Estudante%20de%20SI%20%C2%B7%20Full-Stack%20em%20forma%C3%A7%C3%A3o%20%C2%B7%20Vit%C3%B3ria%20da%20Conquista%2C%20BA&descAlignY=58&descSize=16" alt="header" />
-</h1>
+<h1 align="center">Gustavo Oliveira</h1>
 
 <p align="center">
-  <a href="mailto:gustavosaraiva2504@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://portfolio-amber-omega-3kyqfla4q7.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/Brasil-009C3B?style=for-the-badge&logo=googleearth&logoColor=white" alt="Brasil"/>
+  <strong>Cybersecurity Student · Red Team em formação · Web & API Security</strong><br>
+  Sistemas de Informação · Vitória da Conquista, BA · Brasil
+</p>
+
+<p align="center">
+  <a href="mailto:gustavosaraiva2504@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://portfolio-amber-omega-3kyqfla4q7.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/guuszz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
-### 👋 Sobre mim
+## Sobre mim
 
-Sou estudante de **Sistemas de Informação** e desenvolvedor full-stack em formação, buscando estágio e primeiras experiências profissionais. Gosto de construir APIs bem desenhadas, interfaces limpas e código que outras pessoas consigam ler sem sofrer.
+Sou estudante de **Sistemas de Informação** direcionando minha carreira para **Cybersecurity**, com foco em **Red Team, segurança de aplicações web e APIs**.
 
-> Atualmente estudando **TypeScript avançado**, **arquitetura de APIs**, **fundamentos de cybersecurity** e padrões de projeto aplicados ao back-end Node.js.
+Minha base em desenvolvimento full-stack me ajuda a compreender aplicações por dentro: autenticação, APIs, bancos de dados, lógica de negócio e os pontos onde falhas de segurança costumam surgir. Atualmente pratico em laboratórios controlados, estudo metodologias de pentest e documento processos para produzir resultados reproduzíveis.
 
-🏅 **Badges GitHub:** Quickdraw · Pull Shark · YOLO
+- 🔴 Foco: Red Team, Web Pentest e API Security
+- 🔎 Estudando: reconhecimento, enumeração e análise de vulnerabilidades
+- 🧠 Referências: OWASP Top 10, OWASP API Security Top 10 e MITRE ATT&CK
+- ⚙️ Automação: Python, Bash e JavaScript/TypeScript
+- 🌐 Fundamentos: redes, Linux, HTTP, autenticação e bancos de dados
 
 <details>
-<summary><b>🇺🇸 English</b></summary>
+<summary><b>English</b></summary>
 
-I'm an Information Systems student and a full-stack developer in training, looking for internships and first professional experiences. I enjoy building well-designed APIs, clean interfaces, and code other people can actually read without suffering.
-
-> Currently studying **advanced TypeScript**, **API architecture**, **cybersecurity fundamentals**, and design patterns applied to Node.js back-ends.
+I'm an Information Systems student transitioning toward **Cybersecurity**, focused on **Red Team operations, web application security, and API security**. My full-stack background helps me understand authentication, APIs, databases, business logic, and common application attack surfaces. I currently practice in controlled labs and document reproducible security workflows.
 
 </details>
 
 ---
 
-### 🛠️ Tech Stack
+## Security stack
 
-**Linguagens · Languages**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,go,python&theme=dark)](https://skillicons.dev)
-
-**Front-end & Mobile**
-
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,expo&theme=dark)](https://skillicons.dev)
-
-**Back-end & APIs**
-
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql&theme=dark)](https://skillicons.dev)
-
-**DevOps & Tools**
-
-[![Skills](https://skillicons.dev/icons?i=vercel,git,github,githubactions,docker,vscode,postman&theme=dark)](https://skillicons.dev)
+**Também utilizo:** Nmap · HTTP/HTTPS · REST APIs · SQL · Node.js · PostgreSQL · GitHub Actions
 
 ---
 
-### 🌱 Currently building · Currently learning
+## Projetos e laboratórios
 
-- 🛠️ **Construindo:** [OFICINA](https://github.com/guuszz/OFICINA): sistema full-stack para oficinas mecânicas (React/Vite + Vercel Functions + Prisma + PostgreSQL + Blob)
-- 🤖 **Construindo:** [pr-reviewer](https://github.com/guuszz/pr-reviewer): análise de Pull Requests com IA (Gemini 2.5 Flash + streaming NDJSON)
-- 🔥 **Mantendo:** [gh-streak](https://github.com/guuszz/gh-streak): CLI Go que mostra streak de commits do GitHub no terminal
-- 📚 **Mantendo:** [gateway-pagamento-br-guide](https://github.com/guuszz/gateway-pagamento-br-guide): guide opinativo de gateways de pagamento BR (PT-BR, MIT)
-- 🏋️ **Mantendo:** [Academia-Em-Casa](https://github.com/guuszz/Academia-Em-Casa): app mobile com Expo + React Native para treinos em casa e acompanhamento de progresso.
+| Projeto | Objetivo | Tecnologias / competências |
+|---|---|---|
+| [estudo-redes](https://github.com/guuszz/estudo-redes) | Estudos de redes aplicados à base de segurança ofensiva | TCP/IP, DNS, HTTP, análise de tráfego |
+| [pr-reviewer](https://github.com/guuszz/pr-reviewer) | Base para análise automatizada de código e Pull Requests | TypeScript, APIs, revisão de código, IA |
+| [OFICINA](https://github.com/guuszz/OFICINA) | Aplicação full-stack usada para estudar superfície de ataque e desenvolvimento seguro | React, Node.js, Prisma, PostgreSQL |
+| **Red Team Lab** | Ambiente local em evolução para documentar reconhecimento, enumeração, validação e relatórios | Linux, Python, Docker, Web/API Security |
+
+> Os materiais públicos deste perfil usam laboratórios próprios, CTFs ou ambientes criados para estudo.
+
+---
+
+## Roadmap atual
+
+- [x] Fundamentos de desenvolvimento web e APIs
+- [x] Git/GitHub e automação básica
+- [x] Fundamentos de redes
+- [ ] Publicar write-ups de laboratórios e CTFs
+- [ ] Criar scanner passivo de superfície web
+- [ ] Documentar metodologia de pentest Web/API
+- [ ] Aprofundar Linux, Active Directory e privilege escalation
+- [ ] Mapear estudos e técnicas ao MITRE ATT&CK
+
+---
+
+## Princípios de trabalho
+
+Escopo claro · Evidências reproduzíveis · Documentação objetiva · Comunicação responsável · Aprendizado contínuo
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuszz&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+</p>
+
