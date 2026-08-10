@@ -1,28 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="560" viewBox="0 0 760 560" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="620" viewBox="0 0 760 620" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060a08"/><stop offset="1" stop-color="#111827"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect x="1" y="1" width="758" height="558" rx="20" fill="url(#bg)" stroke="#22c55e" stroke-opacity=".55"/>
+<rect x="1" y="1" width="758" height="618" rx="20" fill="url(#bg)" stroke="#22c55e" stroke-opacity=".58"/>
 <circle cx="27" cy="24" r="6" fill="#ef4444"/><circle cx="48" cy="24" r="6" fill="#f59e0b"/><circle cx="69" cy="24" r="6" fill="#22c55e"/>
-<text x="380" y="29" text-anchor="middle" fill="#64748b" font-size="13">portrait://guuszz --zoom=readable</text>
-<text xml:space="preserve" x="28" y="58" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">99999999&amp;@@B999999##########SSSSSS</text>
-<text xml:space="preserve" x="28" y="79" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">999999999&amp;@@B99##########SSSSSSGGG</text>
-<text xml:space="preserve" x="28" y="100" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">#########9&amp;@&amp;9##########SSSGGGGGHM</text>
-<text xml:space="preserve" x="28" y="121" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">##########9&amp;@9####SSSSSSGGGGGGGHHH</text>
-<text xml:space="preserve" x="28" y="142" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">#999#9######&amp;BHHHHHGSGGGGGGGGGHS9B</text>
-<text xml:space="preserve" x="28" y="163" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">#99999####SSS9GGGHHGGGGGGSGHhX3&amp;&amp;&amp;</text>
-<text xml:space="preserve" x="28" y="184" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">HGGSSSSSGGGHHHGGHHHHGGGSGh52GB#SSM</text>
-<text xml:space="preserve" x="28" y="205" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">isXA255533353333355552XXAsX525BhHA</text>
-<text xml:space="preserve" x="28" y="226" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">,,:;irssXXssXs;,.. ..  r3hss::;..</text>
-<text xml:space="preserve" x="28" y="247" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">::;rssXAAAAAs          A##.</text>
-<text xml:space="preserve" x="28" y="268" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">::irsXAA2522A,:: ...   ,HM</text>
-<text xml:space="preserve" x="28" y="289" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">;:;rXAAA,,,:AA3H55h3Ar r3i</text>
-<text xml:space="preserve" x="28" y="310" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">;:;i5HHX,;i 2hsAS3XAX, Xs</text>
-<text xml:space="preserve" x="28" y="331" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">;::;AHS5As;iXX;i...i3:.s,</text>
-<text xml:space="preserve" x="28" y="352" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">;,,:rGB2ii,.    ,;::, .,</text>
-<text xml:space="preserve" x="28" y="373" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">,   s9h2;..             ..,.</text>
-<text xml:space="preserve" x="28" y="394" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">  .;H2i.       ,.        .,;XXXr,</text>
-<text xml:space="preserve" x="28" y="415" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">;;:;sAs       ,GG,           ,is:</text>
-<text xml:space="preserve" x="28" y="436" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">;;:;:iX:  ,;   :;</text>
-<text xml:space="preserve" x="28" y="457" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">,...isXs  3953X,</text>
-<text xml:space="preserve" x="28" y="478" fill="#22c55e" font-size="20" font-weight="600" filter="url(#glow)">    :si.  ;s53#G2i</text>
-<text x="380" y="526" text-anchor="middle" fill="#94a3b8" font-size="14">GUSTAVO OLIVEIRA // RED TEAM IN TRAINING</text>
+<text x="380" y="29" text-anchor="middle" fill="#64748b" font-size="13">portrait://guuszz --source=new-avatar</text>
+<text xml:space="preserve" x="30" y="58" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)"> ;iiiirrrrrrrrrsssssrrrri;;ii;;;;;::::</text>
+<text xml:space="preserve" x="30" y="77" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)"> ,iirrrssssssssssXXXssssriiriiiii;;;;:</text>
+<text xml:space="preserve" x="30" y="96" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">  isssssXXXXXXXXXXXssssssrrrrrrrriii;;</text>
+<text xml:space="preserve" x="30" y="115" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)"> ,rsXXXXAAAAAXr::.. ..,,irsXssssrrriii</text>
+<text xml:space="preserve" x="30" y="134" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)"> .;::rXAA222s.            .:sXXssssrrr</text>
+<text xml:space="preserve" x="30" y="153" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">      ...;s;                :AAXXXXssr</text>
+<text xml:space="preserve" x="30" y="172" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">         .                   :XAAAAA;</text>
+<text xml:space="preserve" x="30" y="191" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">                 ..,          X522X:,r</text>
+<text xml:space="preserve" x="30" y="210" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">              ,,i2h322Xi:.    s55A:i25</text>
+<text xml:space="preserve" x="30" y="229" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">            ,;rXsAhHHH3Ari:  .A3353hMM</text>
+<text xml:space="preserve" x="30" y="248" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">          . issXsrXhM32332A::riirXhGGS</text>
+<text xml:space="preserve" x="30" y="267" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">,    , ;i5i:XXi;isX22XsirAG32h3ArXH#9B</text>
+<text xml:space="preserve" x="30" y="286" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">. .   .ih9ssA3hh3523525AAAMhssXA2M9B&amp;@</text>
+<text xml:space="preserve" x="30" y="305" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)"> .,  .:X52,X2hMMH52M35MhMMGHX,r3AH##B@</text>
+<text xml:space="preserve" x="30" y="324" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)"> .  .  ;r:.;25hh5AsAsAhMMMH5,;sG5Mh39@</text>
+<text xml:space="preserve" x="30" y="343" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">           .255AirrArsAhhh3XsrsX2hGS&amp;@</text>
+<text xml:space="preserve" x="30" y="362" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">            r252AXssAA23339BB#SGGS9&amp;@@</text>
+<text xml:space="preserve" x="30" y="381" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">            irsr252A53555#@@@@@@@@&amp;&amp;&amp;&amp;</text>
+<text xml:space="preserve" x="30" y="400" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">          . AA; :A335s;XHS#9B&amp;@@@@@@@@</text>
+<text xml:space="preserve" x="30" y="419" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">           ,5hAi..,::;sAA3MHHG#9&amp;@@@@@</text>
+<text xml:space="preserve" x="30" y="438" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">           :5h352XssXA22: i23hMHGS9B&amp;@</text>
+<text xml:space="preserve" x="30" y="457" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">            X3333335225A.   :s23hMMHSS</text>
+<text xml:space="preserve" x="30" y="476" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">             r255335332:      ,s55hhhh</text>
+<text xml:space="preserve" x="30" y="495" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">              .;rsXAXi.         ,s2333</text>
+<text xml:space="preserve" x="30" y="514" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">                   .              :XAA</text>
+<text xml:space="preserve" x="30" y="533" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">                                    ss</text>
+<text xml:space="preserve" x="30" y="552" fill="#22c55e" font-size="18" font-weight="600" filter="url(#glow)">                                    ,r</text>
+<text x="380" y="586" text-anchor="middle" fill="#94a3b8" font-size="14">GUSTAVO OLIVEIRA // RED TEAM IN TRAINING</text>
 </svg>
