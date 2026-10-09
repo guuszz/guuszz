@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=720&lines=gustavo%40redteam%3A~%24+initializing+profile...;Cybersecurity+student+%7C+Red+Team+em+forma%C3%A7%C3%A3o;Studying+attack+surfaces%2C+Web+%26+API+Security;Building+labs.+Documenting+methodologies." alt="Terminal introduction">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-saraiva-054807358/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-avelino-saraiva-oliveira-054807358/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22c55e)](https://portfolio-amber-omega-3kyqfla4q7.vercel.app)
 [![Email](https://img.shields.io/badge/Email-3b1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavosaraiva2504@gmail.com)
 
@@ -31,8 +31,8 @@ gustavo@redteam:~$ cat identity.yaml
 identity:
   name: "Gustavo Oliveira"
   location: "Vitória da Conquista, BA — Brasil"
-  education: "Sistemas de Informação"
-  status: "Cybersecurity student / Red Team em formação"
+  education: "Sistemas de Informação — 4º semestre (2025–2029, previsão)"
+  status: "Estudante de Segurança da Informação | Buscando estágio em AppSec, SecOps e segurança de infraestrutura"
 
 focus:
   - "Web Application Security"
