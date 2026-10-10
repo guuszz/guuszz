@@ -32,7 +32,7 @@ identity:
   name: "Gustavo Oliveira"
   location: "Vitória da Conquista, BA — Brasil"
   education: "Sistemas de Informação — 4º semestre (2025–2029, previsão)"
-  status: "Estudante de Segurança da Informação | Buscando estágio em AppSec, SecOps e segurança de infraestrutura"
+  status: "Estudante de Sistemas de Informação | Buscando estágio em Segurança da Informação, AppSec, SecOps ou suporte de TI"
 
 focus:
   - "Web Application Security"
@@ -90,6 +90,8 @@ Minha experiência com desenvolvimento me ajuda a enxergar aplicações por dent
 |---|---|---|
 | [**ScopeGuard**](https://github.com/guuszz/scopeguard) | Validar e normalizar escopos antes da execução de ferramentas de segurança | `v0.1.0 · ACTIVE` |
 | [**API Attack Surface Mapper**](https://github.com/guuszz/api-attack-surface) | Inventariar contratos OpenAPI e mapear sinais determinísticos OWASP API Security | `v0.1.0 · ACTIVE` |
+| [**Rate Limit Regression**](https://github.com/guuszz/rate-limit-regression) | Reproduzir e comparar controles de limite de requisições em APIs com cenários sintéticos | MVP · TESTED |
+| [**Access Review Reconciler**](https://github.com/guuszz/access-review-reconciler) | Comparar acessos esperados e observados e gerar divergências auditáveis | MVP · TESTED |
 | [**RedReport**](https://github.com/guuszz/redreport) | Transformar findings YAML validados em relatórios técnicos Markdown e HTML | `v0.1.0 · ACTIVE` |
 | [**estudo-redes**](https://github.com/guuszz/estudo-redes) | Consolidar TCP/IP, DNS, HTTP e análise de tráfego para segurança ofensiva | `ACTIVE` |
 | [**Security PR Reviewer**](https://github.com/guuszz/pr-reviewer) | Revisar diffs com regras AppSec determinísticas, evidência por linha e mapeamento CWE/OWASP | `v0.2.0 · ACTIVE` |
